@@ -1,0 +1,7 @@
+{
+  "exec": "ts-node ./src/proxy.ts",
+  "watch": [
+    "src/"
+  ],
+  "ext": "ts"
+}
